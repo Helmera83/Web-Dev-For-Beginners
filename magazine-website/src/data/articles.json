@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Development: Trends to Watch in 2024",
+    "excerpt": "Explore the cutting-edge technologies and methodologies shaping the future of web development, from AI integration to advanced frameworks.",
+    "content": "Web development continues to evolve at a rapid pace, with new technologies and frameworks emerging regularly. In 2024, we're seeing significant trends that are reshaping how developers approach building web applications.\n\n## AI Integration\n\nArtificial Intelligence is becoming more integrated into development workflows, from code generation tools to automated testing and optimization.\n\n## Component-Driven Development\n\nThe move towards modular, reusable components continues to gain momentum, making applications more maintainable and scalable.\n\n## Performance Optimization\n\nWith Core Web Vitals becoming crucial for SEO, developers are focusing more on performance optimization techniques.\n\n## Serverless Architecture\n\nServerless computing is becoming the standard for many applications, offering better scalability and cost-effectiveness.",
+    "author": "Sarah Johnson",
+    "date": "2024-03-15",
+    "category": "Technology",
+    "tags": ["web development", "AI", "trends", "2024"],
+    "heroImage": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=800&h=400&fit=crop",
+    "readTime": "5 min read",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid: A Complete Guide for Modern Layouts",
+    "excerpt": "Learn how to create stunning, responsive layouts using CSS Grid with practical examples and best practices.",
+    "content": "CSS Grid has revolutionized how we approach web layouts. This comprehensive guide will walk you through everything you need to know about CSS Grid.\n\n## Getting Started with Grid\n\nCSS Grid Layout is a two-dimensional layout system for the web. It lets you lay content out in rows and columns.\n\n## Grid Container Properties\n\nThe grid container is the parent element that has `display: grid` applied to it.\n\n## Grid Item Properties\n\nGrid items are the direct children of the grid container.\n\n## Practical Examples\n\nLet's look at some real-world examples of how to use CSS Grid effectively.",
+    "author": "Mike Chen",
+    "date": "2024-03-12",
+    "category": "Design",
+    "tags": ["CSS", "grid", "layout", "responsive"],
+    "heroImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop",
+    "readTime": "8 min read",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "React Hooks Deep Dive: useEffect and Performance Optimization",
+    "excerpt": "Understanding the intricacies of useEffect and how to optimize your React applications for better performance.",
+    "content": "React Hooks have transformed how we write React components. Among all hooks, useEffect is perhaps the most powerful and complex.\n\n## Understanding useEffect\n\nThe useEffect hook lets you perform side effects in functional components.\n\n## Dependency Arrays\n\nProper management of dependency arrays is crucial for preventing infinite loops and ensuring optimal performance.\n\n## Custom Hooks\n\nCreating custom hooks allows you to extract component logic into reusable functions.\n\n## Performance Considerations\n\nOptimizing your hooks usage can significantly improve your application's performance.",
+    "author": "Emily Rodriguez",
+    "date": "2024-03-10",
+    "category": "Development",
+    "tags": ["React", "hooks", "useEffect", "performance"],
+    "heroImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop",
+    "readTime": "6 min read",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Building Accessible Websites: A Comprehensive Guide",
+    "excerpt": "Learn the fundamentals of web accessibility and how to create inclusive experiences for all users.",
+    "content": "Web accessibility ensures that websites are usable by everyone, including people with disabilities.\n\n## WCAG Guidelines\n\nThe Web Content Accessibility Guidelines provide a framework for making web content more accessible.\n\n## Semantic HTML\n\nUsing proper HTML semantics is the foundation of accessible web development.\n\n## ARIA Attributes\n\nARIA attributes help assistive technologies understand the content and structure of your web pages.\n\n## Testing for Accessibility\n\nRegular testing with accessibility tools and real users is essential for maintaining accessibility standards.",
+    "author": "David Kim",
+    "date": "2024-03-08",
+    "category": "Accessibility",
+    "tags": ["accessibility", "WCAG", "inclusive design", "ARIA"],
+    "heroImage": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=800&h=400&fit=crop",
+    "readTime": "7 min read",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "The Rise of Micro-Frontends: Architecture for Scale",
+    "excerpt": "Discover how micro-frontend architecture can help large teams build and maintain complex web applications.",
+    "content": "Micro-frontends extend the concepts of microservices to frontend development, allowing teams to work independently on different parts of a web application.\n\n## What are Micro-Frontends?\n\nMicro-frontends break down frontend monoliths into smaller, more manageable pieces.\n\n## Benefits and Challenges\n\nWhile micro-frontends offer many benefits, they also come with their own set of challenges.\n\n## Implementation Strategies\n\nThere are several approaches to implementing micro-frontend architecture.\n\n## Tools and Frameworks\n\nVarious tools and frameworks can help you implement micro-frontend solutions.",
+    "author": "Lisa Wang",
+    "date": "2024-03-05",
+    "category": "Architecture",
+    "tags": ["micro-frontends", "architecture", "scalability", "enterprise"],
+    "heroImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop",
+    "readTime": "9 min read",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Progressive Web Apps: The Future of Mobile Web",
+    "excerpt": "Learn how to build Progressive Web Apps that deliver native app experiences through web technologies.",
+    "content": "Progressive Web Apps (PWAs) combine the best of web and mobile apps, offering fast, reliable, and engaging user experiences.\n\n## Core Features of PWAs\n\nPWAs are characterized by being reliable, fast, and engaging.\n\n## Service Workers\n\nService workers enable offline functionality and background sync.\n\n## App Manifest\n\nThe web app manifest provides information about the application.\n\n## Implementation Best Practices\n\nFollow these best practices to create effective PWAs.",
+    "author": "Alex Thompson",
+    "date": "2024-03-03",
+    "category": "Mobile",
+    "tags": ["PWA", "mobile", "service workers", "offline"],
+    "heroImage": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop",
+    "readTime": "6 min read",
+    "featured": true
+  }
+]
